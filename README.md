@@ -3,7 +3,7 @@
 
 - 👋 Salut, je suis @PandaRageV2
 - 👀 Je suis développeur uniquement pour FiveM
-- 🌱 J'apprends actuellement sur du Lua,Html,Sql 
+- 🌱 J'apprends actuellement en développement ! 
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
