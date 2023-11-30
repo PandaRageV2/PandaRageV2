@@ -1,4 +1,4 @@
-- ⚡ Développement Team of Slite and NarcoCity
+- ⚡ Développement ESX Legacy 
 - 📫 Comment me rejoindre ? veuillez m'ajouter sur discord. : pandaqc123
 
 - 👋 Salut, je suis @PandaRageV2
